@@ -1,0 +1,8 @@
+object-fit: cover;
+
+Resim, en/boy oranını koruyarak ancak işlem sırasında resmi kırparak 
+kutunun yüksekliğini ve genişliğini dolduracaktır.
+
+opacity: 0.9;
+
+Bir etiketin opaklığını veya saydamlığını belirtir.
